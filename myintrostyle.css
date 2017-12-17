@@ -1,0 +1,153 @@
+body {
+	background-color: #E0E6F8 ;
+	
+}
+
+#nav {
+	position: fixed ;
+	top: 0 ;
+	left: 0 ;	
+	width: 100% ;
+	background-color: black ; ;
+	padding-top: 20px ;
+	padding-bottom: 20px ;
+}
+a{
+	color: black ;
+}
+a:hover {
+    color: blue;
+}
+.smooth {
+	margin: 50px ;
+	color: white;
+	text-decoration: none;
+	font-weight: bold ;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+#first{
+	padding-top: 10% ;
+	color: black;
+	font-weight: bold;
+	font-size: 20px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+#name{
+	padding-top: 2% ;
+	color: black;
+	font-weight: bold;
+	font-size: 80px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+#college{
+	padding-top: 2% ;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+#city{
+	padding-top: 1.5% ;
+	color: black;
+	font-weight: bold;
+	font-size: 23px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+#interest{
+	padding-top: 2% ;
+	padding-bottom: 1.5% ;
+	color: black;
+	font-weight: bold;
+	font-size: 23px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.course{
+	padding-top: 2% ;
+	text-decoration: none;
+	margin: 50px ;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+#interest2{
+	padding-top: 2% ;
+	padding-bottom: 1.5% ;
+	color: black;
+	font-weight: bold;
+	font-size: 23px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.extra{
+	padding-top: 2% ;
+	text-decoration: none;
+	margin: 50px ;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+.heading{
+	padding-top: 0.8% ;
+	color: black;
+	font-weight: bold;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	font-size: 60px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.under{
+	padding-top: 1% ;
+	padding-bottom: 1% ;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-radius: 25px ;
+	border-left-style: solid;
+	border-right-style: solid;
+	background-color: blue ;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.coursetaken{
+	padding-top: 2% ;
+	text-decoration: none;
+	margin: 30px ;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.skill{
+	padding-top: 1% ;
+	padding-bottom: 1% ;
+	text-decoration: none;
+	color: black;
+	font-weight: bold;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-radius: 25px ;
+	border-left-style: solid;
+	border-right-style: solid;
+	background-color: blue ;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+.myc{
+	padding-top: 2% ;
+	text-decoration: none;
+	margin: 30px ;
+	color: black;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
