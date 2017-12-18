@@ -1,5 +1,6 @@
 body {
 	background-color: #E0E6F8 ;
+	background-image: url("images.jpg");
 	
 }
 
@@ -17,6 +18,11 @@ a{
 }
 a:hover {
     color: blue;
+}
+
+#image:hover{
+	transform: scaleX(-1) ;
+	-webkit-transform: scaleX(-1);
 }
 .smooth {
 	margin: 50px ;
@@ -150,4 +156,9 @@ a:hover {
 	font-weight: bold;
 	font-size: 30px;
 	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+
+#home{
+	background-image: url("computer-blue-opacity-background (1).jpg");
+	background-size: auto;
 }
