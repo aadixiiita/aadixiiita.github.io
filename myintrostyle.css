@@ -1,6 +1,8 @@
 body {
 	background-color: #E0E6F8 ;
-	background-image: url("images.jpg");
+	background-image: url("Office-Background-Opaque1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover ;
 	
 }
 
