@@ -1,0 +1,50 @@
+.content{
+	background-color: rgba(0,0,0,0.5);
+	width: 100% ;
+	padding: 40px ;
+	color: #f1f1f1;
+	position: absolute;
+}
+.myfr{
+	font-size: 45px ;
+
+}
+
+.myc{
+	font-size:20px ;
+}
+
+.my{
+	text-decoration: underline;
+	font-weight: bold;
+	color: white ;
+
+}
+.my1{
+	text-decoration: underline;
+	font-weight: bold;
+	color: white ;
+
+}
+body{
+	background-image: url(447967.jpg);
+	background-size: cover;
+}
+.heading{
+	padding-top: 0.8% ;
+	color: white;
+	font-weight: bold;
+	border-top-style: solid;
+	border-bottom-style: solid;
+	border-left-style: hidden;
+	border-right-style: hidden;
+	font-size: 60px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
+#college{
+	padding-top: 2% ;
+	color: white;
+	font-weight: bold;
+	font-size: 30px;
+	font-family: "Trebuchet MS", Helvetica, sans-serif ;
+}
